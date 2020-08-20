@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NewsApp
 //
-//  Created by admios on 8/19/20.
+//  Created by Rene on 8/19/20.
 //  Copyright © 2020 rene. All rights reserved.
 //
 
